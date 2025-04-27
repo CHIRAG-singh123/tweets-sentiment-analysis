@@ -55,28 +55,13 @@ Before running the code, make sure you have installed the required libraries. Be
 git clone https://github.com/your-username/sentiment-analysis-chatgpt.git
 cd sentiment-analysis-chatgpt
 ```
-
-### 2. Create and Activate Virtual Environment (Optional but Recommended)
-```bash
-python -m venv venv
-# Windows:
-venv\Scripts\activate
-# Mac/Linux:
-source venv/bin/activate
-```
-
-### 3. Install Required Libraries
-```bash
-pip install -r requirements.txt
-```
-
-If `requirements.txt` is not available, you can install manually:
+### 2. Download libraries
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow wordcloud demoji
 pip install transformers catboost xgboost lightgbm imbalanced-learn ctgan nltk
 ```
 
-### 4. Download NLTK Data (for VADER Analysis)
+### 3. Download NLTK Data (for VADER Analysis)
 ```python
 import nltk
 nltk.download('vader_lexicon')
