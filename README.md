@@ -156,5 +156,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-Would you also like me to create a **`requirements.txt`** file for you automatically? 🚀
-
