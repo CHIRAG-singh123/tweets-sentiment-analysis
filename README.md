@@ -38,7 +38,7 @@ The dataset used in this project is a cleaned version of ChatGPT-related tweets,
 
 The dataset contains fields such as:
 
-- Tweet Text
+- Tweet Text-------------------->[download data set from here : https://www.kaggle.com/datasets/ryosyo0/chatgpt-tweets-sentiment-analysis-clean-data]
 - Sentiment scores: `negative`, `neutral`, `positive`
 - Predicted Sentiment Label
 - Date, Retweets, Likes, Replies
