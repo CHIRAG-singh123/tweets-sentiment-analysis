@@ -66,6 +66,9 @@ pip install transformers catboost xgboost lightgbm imbalanced-learn ctgan nltk
 import nltk
 nltk.download('vader_lexicon')
 ```
+### 4. Run codes in jupyter nootbook.
+Take help from youtube video.
+[Youtube](https://youtu.be/8YGPfGDYAgI?si=UZFb_4p26i5hIo4R)
 
 ---
 
