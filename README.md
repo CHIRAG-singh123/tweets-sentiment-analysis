@@ -146,7 +146,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 👤 Author
 
-- **Your Name**
+- **CHIRAG SINGH**
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/thechiragsingh/)
 - GitHub: [Github](https://github.com/CHIRAG-singh123)
 
