@@ -1,5 +1,7 @@
 
 https://github.com/user-attachments/assets/f3025a29-3958-4b91-b4ec-4d66671e0158
+
+
 This video represents some slides of Power point presentation, my ppt is of 72 slides.
 
 
