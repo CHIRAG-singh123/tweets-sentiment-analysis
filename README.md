@@ -1,9 +1,12 @@
+# PPT demo
+
 https://github.com/user-attachments/assets/f3025a29-3958-4b91-b4ec-4d66671e0158
 
 
 This video represents some slides of Power point presentation, my ppt is of 72 slides.
 
 
+# Word Cloud
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6ecba17f-24f4-4597-bbb8-861c4dfd6445" />
 
@@ -14,6 +17,7 @@ This video represents some slides of Power point presentation, my ppt is of 72 s
 
 Generated Word cloud of positive, negative and neutral tweets:
 
+# CTGAN Library
 
 <img width="1918" height="520" alt="image" src="https://github.com/user-attachments/assets/cfb94b92-b057-4a4c-9731-4c7336aa2fb3" />
 
