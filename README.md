@@ -4,16 +4,15 @@ https://github.com/user-attachments/assets/f3025a29-3958-4b91-b4ec-4d66671e0158
 This video represents some slides of Power point presentation, my ppt is of 72 slides.
 
 
-Generated Word cloud of positive tweets:
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6ecba17f-24f4-4597-bbb8-861c4dfd6445" />
 
-
-Generated Word cloud of negative tweets:
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/30eded74-faf1-4295-be36-4202032906f3" />
 
-
-Generated Word cloud of neutral tweets:
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5819b3e5-04eb-4944-8a2c-8c0e9aa62a1d" />
+
+
+Generated Word cloud of positive, negative and neutral tweets:
 
 
 <img width="1918" height="520" alt="image" src="https://github.com/user-attachments/assets/cfb94b92-b057-4a4c-9731-4c7336aa2fb3" />
